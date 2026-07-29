@@ -1,0 +1,145 @@
+Device: cpu
+Model2 labels: [1, 11, 21, 31, 41]
+Model2 label map: {1: 0, 11: 1, 21: 2, 31: 3, 41: 4}
+Trainable params: 3732485
+Model2 | Epoch 001 | Loss 1.2429 | Train 57.20% | Test-TTA 56.60% | Best 0.00%
+Saved new best Model2: 56.60%
+Model2 | Epoch 002 | Loss 0.9682 | Train 66.84% | Test-TTA 69.00% | Best 56.60%
+Saved new best Model2: 69.00%
+Model2 | Epoch 003 | Loss 0.8258 | Train 73.00% | Test-TTA 60.20% | Best 69.00%
+Model2 | Epoch 004 | Loss 0.7552 | Train 74.28% | Test-TTA 75.00% | Best 69.00%
+Saved new best Model2: 75.00%
+Model2 | Epoch 005 | Loss 0.6925 | Train 78.28% | Test-TTA 76.20% | Best 75.00%
+Saved new best Model2: 76.20%
+Model2 | Epoch 006 | Loss 0.5874 | Train 81.16% | Test-TTA 78.80% | Best 76.20%
+Saved new best Model2: 78.80%
+Model2 | Epoch 007 | Loss 0.6296 | Train 81.80% | Test-TTA 81.20% | Best 78.80%
+Saved new best Model2: 81.20%
+Model2 | Epoch 008 | Loss 0.4591 | Train 85.20% | Test-TTA 81.80% | Best 81.20%
+Saved new best Model2: 81.80%
+Model2 | Epoch 009 | Loss 0.4626 | Train 84.72% | Test-TTA 83.40% | Best 81.80%
+Saved new best Model2: 83.40%
+Model2 | Epoch 010 | Loss 0.4967 | Train 85.84% | Test-TTA 83.40% | Best 83.40%
+Model2 | Epoch 011 | Loss 0.4882 | Train 87.84% | Test-TTA 85.60% | Best 83.40%
+Saved new best Model2: 85.60%
+Model2 | Epoch 012 | Loss 0.4467 | Train 87.16% | Test-TTA 86.00% | Best 85.60%
+Saved new best Model2: 86.00%
+Model2 | Epoch 013 | Loss 0.4735 | Train 88.24% | Test-TTA 84.80% | Best 86.00%
+Model2 | Epoch 014 | Loss 0.4874 | Train 88.44% | Test-TTA 87.80% | Best 86.00%
+Saved new best Model2: 87.80%
+Model2 | Epoch 015 | Loss 0.3911 | Train 89.36% | Test-TTA 89.60% | Best 87.80%
+Saved new best Model2: 89.60%
+Model2 | Epoch 016 | Loss 0.3916 | Train 89.24% | Test-TTA 88.40% | Best 89.60%
+Model2 | Epoch 017 | Loss 0.4023 | Train 88.88% | Test-TTA 88.00% | Best 89.60%
+Model2 | Epoch 018 | Loss 0.3449 | Train 90.84% | Test-TTA 87.40% | Best 89.60%
+Model2 | Epoch 019 | Loss 0.4143 | Train 90.12% | Test-TTA 85.40% | Best 89.60%
+Model2 | Epoch 020 | Loss 0.3151 | Train 90.88% | Test-TTA 90.40% | Best 89.60%
+Saved new best Model2: 90.40%
+Model2 | Epoch 021 | Loss 0.4265 | Train 91.32% | Test-TTA 84.80% | Best 90.40%
+Model2 | Epoch 022 | Loss 0.3788 | Train 91.56% | Test-TTA 87.40% | Best 90.40%
+Model2 | Epoch 023 | Loss 0.3599 | Train 91.80% | Test-TTA 89.80% | Best 90.40%
+Model2 | Epoch 024 | Loss 0.3181 | Train 92.64% | Test-TTA 92.00% | Best 90.40%
+Saved new best Model2: 92.00%
+Model2 | Epoch 025 | Loss 0.3111 | Train 91.68% | Test-TTA 89.80% | Best 92.00%
+Model2 | Epoch 026 | Loss 0.2887 | Train 93.08% | Test-TTA 88.20% | Best 92.00%
+Model2 | Epoch 027 | Loss 0.3208 | Train 93.24% | Test-TTA 87.40% | Best 92.00%
+Model2 | Epoch 028 | Loss 0.2714 | Train 93.80% | Test-TTA 91.60% | Best 92.00%
+Model2 | Epoch 029 | Loss 0.2926 | Train 93.84% | Test-TTA 89.40% | Best 92.00%
+Model2 | Epoch 030 | Loss 0.2956 | Train 93.48% | Test-TTA 91.80% | Best 92.00%
+Model2 | Epoch 031 | Loss 0.2685 | Train 94.76% | Test-TTA 90.80% | Best 92.00%
+Model2 | Epoch 032 | Loss 0.2822 | Train 94.96% | Test-TTA 89.00% | Best 92.00%
+Model2 | Epoch 033 | Loss 0.3347 | Train 94.84% | Test-TTA 90.00% | Best 92.00%
+Model2 | Epoch 034 | Loss 0.3074 | Train 94.52% | Test-TTA 92.00% | Best 92.00%
+Model2 | Epoch 035 | Loss 0.2316 | Train 95.52% | Test-TTA 91.60% | Best 92.00%
+Model2 | Epoch 036 | Loss 0.1755 | Train 96.44% | Test-TTA 88.20% | Best 92.00%
+Model2 | Epoch 037 | Loss 0.2376 | Train 95.56% | Test-TTA 91.80% | Best 92.00%
+Model2 | Epoch 038 | Loss 0.2702 | Train 94.96% | Test-TTA 89.80% | Best 92.00%
+Model2 | Epoch 039 | Loss 0.2198 | Train 95.96% | Test-TTA 91.20% | Best 92.00%
+Model2 | Epoch 040 | Loss 0.2727 | Train 96.04% | Test-TTA 91.00% | Best 92.00%
+Model2 | Epoch 041 | Loss 0.2285 | Train 96.40% | Test-TTA 91.00% | Best 92.00%
+Model2 | Epoch 042 | Loss 0.2615 | Train 96.28% | Test-TTA 92.60% | Best 92.00%
+Saved new best Model2: 92.60%
+Model2 | Epoch 043 | Loss 0.1941 | Train 97.00% | Test-TTA 92.00% | Best 92.60%
+Model2 | Epoch 044 | Loss 0.1548 | Train 96.84% | Test-TTA 93.20% | Best 92.60%
+Saved new best Model2: 93.20%
+Model2 | Epoch 045 | Loss 0.3054 | Train 95.92% | Test-TTA 90.80% | Best 93.20%
+Model2 | Epoch 046 | Loss 0.1624 | Train 97.52% | Test-TTA 92.80% | Best 93.20%
+Model2 | Epoch 047 | Loss 0.1579 | Train 97.04% | Test-TTA 93.80% | Best 93.20%
+Saved new best Model2: 93.80%
+Model2 | Epoch 048 | Loss 0.3224 | Train 97.56% | Test-TTA 92.00% | Best 93.80%
+Model2 | Epoch 049 | Loss 0.1609 | Train 97.56% | Test-TTA 94.20% | Best 93.80%
+Saved new best Model2: 94.20%
+Model2 | Epoch 050 | Loss 0.1199 | Train 97.48% | Test-TTA 93.60% | Best 94.20%
+Model2 | Epoch 051 | Loss 0.1550 | Train 97.48% | Test-TTA 92.20% | Best 94.20%
+Model2 | Epoch 052 | Loss 0.1347 | Train 97.88% | Test-TTA 93.20% | Best 94.20%
+Model2 | Epoch 053 | Loss 0.1256 | Train 97.52% | Test-TTA 93.20% | Best 94.20%
+Model2 | Epoch 054 | Loss 0.1937 | Train 97.48% | Test-TTA 93.00% | Best 94.20%
+Model2 | Epoch 055 | Loss 0.1769 | Train 96.28% | Test-TTA 93.20% | Best 94.20%
+Model2 | Epoch 056 | Loss 0.1525 | Train 97.88% | Test-TTA 92.40% | Best 94.20%
+Model2 | Epoch 057 | Loss 0.1671 | Train 97.60% | Test-TTA 94.20% | Best 94.20%
+Model2 | Epoch 058 | Loss 0.0858 | Train 98.28% | Test-TTA 93.40% | Best 94.20%
+Model2 | Epoch 059 | Loss 0.2096 | Train 98.00% | Test-TTA 94.20% | Best 94.20%
+Model2 | Epoch 060 | Loss 0.1666 | Train 98.16% | Test-TTA 94.20% | Best 94.20%
+Model2 | Epoch 061 | Loss 0.2140 | Train 98.72% | Test-TTA 93.00% | Best 94.20%
+Model2 | Epoch 062 | Loss 0.1690 | Train 98.56% | Test-TTA 94.60% | Best 94.20%
+Saved new best Model2: 94.60%
+Model2 | Epoch 063 | Loss 0.2319 | Train 98.00% | Test-TTA 94.00% | Best 94.60%
+Model2 | Epoch 064 | Loss 0.1726 | Train 98.00% | Test-TTA 93.40% | Best 94.60%
+Model2 | Epoch 065 | Loss 0.2328 | Train 98.40% | Test-TTA 94.60% | Best 94.60%
+Model2 | Epoch 066 | Loss 0.2801 | Train 98.12% | Test-TTA 94.80% | Best 94.60%
+Saved new best Model2: 94.80%
+Model2 | Epoch 067 | Loss 0.1358 | Train 98.28% | Test-TTA 95.00% | Best 94.80%
+Saved new best Model2: 95.00%
+Model2 | Epoch 068 | Loss 0.1595 | Train 98.12% | Test-TTA 93.00% | Best 95.00%
+Model2 | Epoch 069 | Loss 0.1814 | Train 98.68% | Test-TTA 93.40% | Best 95.00%
+Model2 | Epoch 070 | Loss 0.1524 | Train 98.48% | Test-TTA 92.80% | Best 95.00%
+Model2 | Epoch 071 | Loss 0.1450 | Train 99.12% | Test-TTA 94.00% | Best 95.00%
+Model2 | Epoch 072 | Loss 0.1753 | Train 98.92% | Test-TTA 93.60% | Best 95.00%
+Model2 | Epoch 073 | Loss 0.1069 | Train 98.88% | Test-TTA 93.60% | Best 95.00%
+Model2 | Epoch 074 | Loss 0.2035 | Train 98.36% | Test-TTA 91.40% | Best 95.00%
+Model2 | Epoch 075 | Loss 0.1984 | Train 97.92% | Test-TTA 92.80% | Best 95.00%
+Model2 | Epoch 076 | Loss 0.1544 | Train 98.76% | Test-TTA 93.40% | Best 95.00%
+Model2 | Epoch 077 | Loss 0.1161 | Train 98.60% | Test-TTA 94.00% | Best 95.00%
+Model2 | Epoch 078 | Loss 0.1002 | Train 99.12% | Test-TTA 93.20% | Best 95.00%
+Model2 | Epoch 079 | Loss 0.0887 | Train 99.40% | Test-TTA 94.80% | Best 95.00%
+Model2 | Epoch 080 | Loss 0.1048 | Train 98.92% | Test-TTA 94.80% | Best 95.00%
+Model2 | Epoch 081 | Loss 0.2430 | Train 98.96% | Test-TTA 93.60% | Best 95.00%
+Model2 | Epoch 082 | Loss 0.0885 | Train 99.28% | Test-TTA 95.00% | Best 95.00%
+Model2 | Epoch 083 | Loss 0.1218 | Train 99.76% | Test-TTA 94.40% | Best 95.00%
+Model2 | Epoch 084 | Loss 0.1235 | Train 99.32% | Test-TTA 94.60% | Best 95.00%
+Model2 | Epoch 085 | Loss 0.1393 | Train 99.40% | Test-TTA 94.20% | Best 95.00%
+Model2 | Epoch 086 | Loss 0.1102 | Train 99.44% | Test-TTA 93.80% | Best 95.00%
+Model2 | Epoch 087 | Loss 0.0605 | Train 99.48% | Test-TTA 93.60% | Best 95.00%
+Model2 | Epoch 088 | Loss 0.1146 | Train 99.36% | Test-TTA 93.00% | Best 95.00%
+Model2 | Epoch 089 | Loss 0.1816 | Train 98.96% | Test-TTA 93.40% | Best 95.00%
+Model2 | Epoch 090 | Loss 0.0402 | Train 99.44% | Test-TTA 94.60% | Best 95.00%
+Model2 | Epoch 091 | Loss 0.1115 | Train 99.36% | Test-TTA 92.80% | Best 95.00%
+Model2 | Epoch 092 | Loss 0.1021 | Train 99.48% | Test-TTA 94.60% | Best 95.00%
+Model2 | Epoch 093 | Loss 0.1819 | Train 99.68% | Test-TTA 94.80% | Best 95.00%
+Model2 | Epoch 094 | Loss 0.1673 | Train 99.44% | Test-TTA 93.20% | Best 95.00%
+Model2 | Epoch 095 | Loss 0.0270 | Train 99.56% | Test-TTA 95.00% | Best 95.00%
+Model2 | Epoch 096 | Loss 0.1795 | Train 99.84% | Test-TTA 91.80% | Best 95.00%
+Model2 | Epoch 097 | Loss 0.0480 | Train 99.48% | Test-TTA 94.60% | Best 95.00%
+Model2 | Epoch 098 | Loss 0.2106 | Train 99.48% | Test-TTA 94.60% | Best 95.00%
+Model2 | Epoch 099 | Loss 0.0722 | Train 99.52% | Test-TTA 94.20% | Best 95.00%
+Model2 | Epoch 100 | Loss 0.0678 | Train 99.36% | Test-TTA 92.80% | Best 95.00%
+Model2 | Epoch 101 | Loss 0.0404 | Train 99.64% | Test-TTA 95.00% | Best 95.00%
+Model2 | Epoch 102 | Loss 0.0301 | Train 99.64% | Test-TTA 94.00% | Best 95.00%
+Early stopping: test accuracy stopped improving.
+
+Best Model2 acc = 95.00% at epoch 67
+
+Final Model2 Test-TTA Accuracy: 95.00%
+
+Confusion matrix rows=true cols=pred
+Labels: [1, 11, 21, 31, 41]
+[[98, 0, 0, 1, 1], [0, 95, 1, 4, 0], [1, 0, 93, 5, 1], [3, 4, 0, 91, 2], [2, 0, 0, 0, 98]]
+Class 1: 98/100 = 98.00%
+Class 11: 95/100 = 95.00%
+Class 21: 93/100 = 93.00%
+Class 31: 91/100 = 91.00%
+Class 41: 98/100 = 98.00%
+
+Saved Model2 best model to C:\Users\Shaoyi Lu\Desktop\CAS771\One\checkpoints_taskA\model2_expert_best.pth
+
+Process finished with exit code 0

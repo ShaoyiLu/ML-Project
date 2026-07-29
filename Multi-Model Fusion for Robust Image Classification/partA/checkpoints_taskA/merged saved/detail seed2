@@ -1,0 +1,282 @@
+Device: cpu
+Seed: 2026
+Global labels: [0, 1, 2, 10, 11, 12, 20, 21, 22, 30, 31, 32, 40, 41, 42]
+Global map: {0: 0, 1: 1, 2: 2, 10: 3, 11: 4, 12: 5, 20: 6, 21: 7, 22: 8, 30: 9, 31: 10, 32: 11, 40: 12, 41: 13, 42: 14}
+Loaded expert: checkpoints_taskA\model1_expert_best.pth
+Checkpoint fields: {'test_acc': None, 'test_tta_acc': 93.2, 'best_acc': None}
+Loaded expert: checkpoints_taskA\model2_expert_best.pth
+Checkpoint fields: {'test_acc': None, 'test_tta_acc': 95.0, 'best_acc': None}
+Loaded expert: checkpoints_taskA\model3_expert_best.pth
+Checkpoint fields: {'test_acc': 91.8, 'test_tta_acc': 92.4, 'best_acc': None}
+Merged trainable params: 1108025
+MergedSeed2 | Epoch 001 | Loss 4.1281 | Train 75.33% | TrainDomain 51.55% | TrainSlot 38.61% | Test 71.27% | Test-TTA 72.53% | TestDomain 54.20% | TestTTA-Domain 54.27% | TestSlot 46.40% | TestTTA-Slot 46.53% | Best 0.00%
+Saved new best seed2 merged model: 72.53%
+MergedSeed2 | Epoch 002 | Loss 3.7879 | Train 77.83% | TrainDomain 58.08% | TrainSlot 46.55% | Test 73.53% | Test-TTA 74.60% | TestDomain 60.00% | TestTTA-Domain 59.60% | TestSlot 47.20% | TestTTA-Slot 48.20% | Best 72.53%
+Saved new best seed2 merged model: 74.60%
+MergedSeed2 | Epoch 003 | Loss 3.5825 | Train 78.55% | TrainDomain 61.73% | TrainSlot 51.00% | Test 72.20% | Test-TTA 72.93% | TestDomain 60.00% | TestTTA-Domain 59.93% | TestSlot 51.33% | TestTTA-Slot 51.73% | Best 74.60%
+MergedSeed2 | Epoch 004 | Loss 3.4190 | Train 78.81% | TrainDomain 64.09% | TrainSlot 54.19% | Test 72.13% | Test-TTA 73.20% | TestDomain 61.40% | TestTTA-Domain 61.40% | TestSlot 54.47% | TestTTA-Slot 54.93% | Best 74.60%
+MergedSeed2 | Epoch 005 | Loss 3.2620 | Train 79.88% | TrainDomain 65.99% | TrainSlot 57.07% | Test 74.60% | Test-TTA 74.87% | TestDomain 63.80% | TestTTA-Domain 63.53% | TestSlot 58.47% | TestTTA-Slot 58.53% | Best 74.60%
+Saved new best seed2 merged model: 74.87%
+MergedSeed2 | Epoch 006 | Loss 3.1266 | Train 80.80% | TrainDomain 67.61% | TrainSlot 58.89% | Test 76.60% | Test-TTA 77.47% | TestDomain 71.33% | TestTTA-Domain 70.67% | TestSlot 64.47% | TestTTA-Slot 64.33% | Best 74.87%
+Saved new best seed2 merged model: 77.47%
+MergedSeed2 | Epoch 007 | Loss 2.9611 | Train 81.69% | TrainDomain 69.93% | TrainSlot 61.49% | Test 74.73% | Test-TTA 75.93% | TestDomain 67.60% | TestTTA-Domain 67.00% | TestSlot 63.20% | TestTTA-Slot 62.53% | Best 77.47%
+MergedSeed2 | Epoch 008 | Loss 2.8693 | Train 82.29% | TrainDomain 71.12% | TrainSlot 62.80% | Test 76.33% | Test-TTA 76.27% | TestDomain 71.93% | TestTTA-Domain 71.80% | TestSlot 61.80% | TestTTA-Slot 62.00% | Best 77.47%
+MergedSeed2 | Epoch 009 | Loss 2.7586 | Train 82.67% | TrainDomain 72.67% | TrainSlot 65.12% | Test 78.60% | Test-TTA 78.47% | TestDomain 69.53% | TestTTA-Domain 70.20% | TestSlot 67.07% | TestTTA-Slot 67.20% | Best 77.47%
+Saved new best seed2 merged model: 78.60%
+MergedSeed2 | Epoch 010 | Loss 2.6838 | Train 82.95% | TrainDomain 73.59% | TrainSlot 66.43% | Test 78.07% | Test-TTA 79.07% | TestDomain 74.07% | TestTTA-Domain 75.47% | TestSlot 66.33% | TestTTA-Slot 66.27% | Best 78.60%
+Saved new best seed2 merged model: 79.07%
+MergedSeed2 | Epoch 011 | Loss 2.5777 | Train 83.73% | TrainDomain 75.17% | TrainSlot 67.48% | Test 79.13% | Test-TTA 79.87% | TestDomain 76.93% | TestTTA-Domain 77.47% | TestSlot 69.47% | TestTTA-Slot 69.27% | Best 79.07%
+Saved new best seed2 merged model: 79.87%
+MergedSeed2 | Epoch 012 | Loss 2.5048 | Train 84.23% | TrainDomain 76.09% | TrainSlot 69.60% | Test 77.13% | Test-TTA 78.13% | TestDomain 73.80% | TestTTA-Domain 74.67% | TestSlot 64.93% | TestTTA-Slot 64.53% | Best 79.87%
+MergedSeed2 | Epoch 013 | Loss 2.4351 | Train 84.73% | TrainDomain 77.20% | TrainSlot 70.83% | Test 79.20% | Test-TTA 79.53% | TestDomain 76.60% | TestTTA-Domain 76.40% | TestSlot 69.00% | TestTTA-Slot 69.40% | Best 79.87%
+MergedSeed2 | Epoch 014 | Loss 2.3899 | Train 84.60% | TrainDomain 77.65% | TrainSlot 71.25% | Test 80.13% | Test-TTA 81.07% | TestDomain 77.27% | TestTTA-Domain 77.60% | TestSlot 72.73% | TestTTA-Slot 72.47% | Best 79.87%
+Saved new best seed2 merged model: 81.07%
+MergedSeed2 | Epoch 015 | Loss 2.3115 | Train 85.60% | TrainDomain 78.97% | TrainSlot 73.00% | Test 80.07% | Test-TTA 80.33% | TestDomain 78.87% | TestTTA-Domain 79.27% | TestSlot 73.20% | TestTTA-Slot 72.67% | Best 81.07%
+MergedSeed2 | Epoch 016 | Loss 2.2594 | Train 85.71% | TrainDomain 79.25% | TrainSlot 73.89% | Test 80.40% | Test-TTA 81.60% | TestDomain 77.33% | TestTTA-Domain 77.33% | TestSlot 72.93% | TestTTA-Slot 73.07% | Best 81.07%
+Saved new best seed2 merged model: 81.60%
+MergedSeed2 | Epoch 017 | Loss 2.2195 | Train 86.47% | TrainDomain 80.37% | TrainSlot 74.48% | Test 79.60% | Test-TTA 80.07% | TestDomain 79.53% | TestTTA-Domain 79.93% | TestSlot 74.60% | TestTTA-Slot 74.73% | Best 81.60%
+MergedSeed2 | Epoch 018 | Loss 2.1586 | Train 86.68% | TrainDomain 80.49% | TrainSlot 75.77% | Test 80.27% | Test-TTA 80.73% | TestDomain 80.67% | TestTTA-Domain 80.47% | TestSlot 74.93% | TestTTA-Slot 74.80% | Best 81.60%
+MergedSeed2 | Epoch 019 | Loss 2.1013 | Train 87.04% | TrainDomain 81.76% | TrainSlot 77.37% | Test 79.87% | Test-TTA 80.20% | TestDomain 80.00% | TestTTA-Domain 80.40% | TestSlot 74.87% | TestTTA-Slot 75.47% | Best 81.60%
+MergedSeed2 | Epoch 020 | Loss 2.0641 | Train 87.84% | TrainDomain 82.29% | TrainSlot 76.93% | Test 81.00% | Test-TTA 81.80% | TestDomain 81.47% | TestTTA-Domain 82.07% | TestSlot 74.00% | TestTTA-Slot 74.07% | Best 81.60%
+Saved new best seed2 merged model: 81.80%
+MergedSeed2 | Epoch 021 | Loss 2.0327 | Train 87.68% | TrainDomain 83.24% | TrainSlot 77.83% | Test 79.27% | Test-TTA 80.27% | TestDomain 76.93% | TestTTA-Domain 77.00% | TestSlot 75.13% | TestTTA-Slot 75.73% | Best 81.80%
+MergedSeed2 | Epoch 022 | Loss 1.9529 | Train 88.47% | TrainDomain 84.35% | TrainSlot 78.96% | Test 81.67% | Test-TTA 82.87% | TestDomain 82.40% | TestTTA-Domain 82.13% | TestSlot 76.07% | TestTTA-Slot 76.87% | Best 81.80%
+Saved new best seed2 merged model: 82.87%
+MergedSeed2 | Epoch 023 | Loss 1.9454 | Train 88.72% | TrainDomain 84.05% | TrainSlot 79.99% | Test 81.67% | Test-TTA 82.13% | TestDomain 82.60% | TestTTA-Domain 82.67% | TestSlot 76.80% | TestTTA-Slot 77.13% | Best 82.87%
+MergedSeed2 | Epoch 024 | Loss 1.8873 | Train 88.69% | TrainDomain 84.61% | TrainSlot 79.84% | Test 81.73% | Test-TTA 81.47% | TestDomain 82.40% | TestTTA-Domain 82.47% | TestSlot 76.27% | TestTTA-Slot 77.13% | Best 82.87%
+MergedSeed2 | Epoch 025 | Loss 1.8604 | Train 89.35% | TrainDomain 85.75% | TrainSlot 80.71% | Test 82.73% | Test-TTA 83.20% | TestDomain 83.53% | TestTTA-Domain 83.33% | TestSlot 79.33% | TestTTA-Slot 80.00% | Best 82.87%
+Saved new best seed2 merged model: 83.20%
+MergedSeed2 | Epoch 026 | Loss 1.8439 | Train 89.20% | TrainDomain 85.39% | TrainSlot 81.57% | Test 82.93% | Test-TTA 83.27% | TestDomain 80.73% | TestTTA-Domain 81.33% | TestSlot 79.20% | TestTTA-Slot 80.73% | Best 83.20%
+Saved new best seed2 merged model: 83.27%
+MergedSeed2 | Epoch 027 | Loss 1.7838 | Train 89.71% | TrainDomain 86.85% | TrainSlot 82.37% | Test 81.93% | Test-TTA 82.27% | TestDomain 82.33% | TestTTA-Domain 82.13% | TestSlot 77.07% | TestTTA-Slot 78.00% | Best 83.27%
+MergedSeed2 | Epoch 028 | Loss 1.7591 | Train 90.36% | TrainDomain 87.31% | TrainSlot 83.15% | Test 81.93% | Test-TTA 82.60% | TestDomain 82.40% | TestTTA-Domain 82.33% | TestSlot 77.73% | TestTTA-Slot 78.13% | Best 83.27%
+MergedSeed2 | Epoch 029 | Loss 1.7719 | Train 89.69% | TrainDomain 87.27% | TrainSlot 82.64% | Test 82.73% | Test-TTA 82.60% | TestDomain 83.67% | TestTTA-Domain 83.73% | TestSlot 77.87% | TestTTA-Slot 78.27% | Best 83.27%
+MergedSeed2 | Epoch 030 | Loss 1.6832 | Train 91.21% | TrainDomain 88.19% | TrainSlot 83.69% | Test 81.07% | Test-TTA 82.00% | TestDomain 82.80% | TestTTA-Domain 82.07% | TestSlot 78.40% | TestTTA-Slot 78.27% | Best 83.27%
+MergedSeed2 | Epoch 031 | Loss 1.6973 | Train 90.61% | TrainDomain 87.73% | TrainSlot 83.73% | Test 82.00% | Test-TTA 82.47% | TestDomain 84.13% | TestTTA-Domain 84.60% | TestSlot 79.87% | TestTTA-Slot 80.67% | Best 83.27%
+MergedSeed2 | Epoch 032 | Loss 1.6556 | Train 91.49% | TrainDomain 88.93% | TrainSlot 84.49% | Test 81.53% | Test-TTA 81.87% | TestDomain 80.80% | TestTTA-Domain 81.20% | TestSlot 77.13% | TestTTA-Slot 77.67% | Best 83.27%
+MergedSeed2 | Epoch 033 | Loss 1.6151 | Train 91.77% | TrainDomain 89.43% | TrainSlot 84.41% | Test 82.27% | Test-TTA 81.80% | TestDomain 83.00% | TestTTA-Domain 83.13% | TestSlot 78.27% | TestTTA-Slot 79.47% | Best 83.27%
+MergedSeed2 | Epoch 034 | Loss 1.5585 | Train 91.97% | TrainDomain 89.71% | TrainSlot 85.97% | Test 82.47% | Test-TTA 83.67% | TestDomain 82.80% | TestTTA-Domain 83.33% | TestSlot 80.80% | TestTTA-Slot 81.60% | Best 83.27%
+Saved new best seed2 merged model: 83.67%
+MergedSeed2 | Epoch 035 | Loss 1.5507 | Train 92.11% | TrainDomain 90.25% | TrainSlot 86.71% | Test 83.67% | Test-TTA 84.40% | TestDomain 85.20% | TestTTA-Domain 85.00% | TestSlot 81.80% | TestTTA-Slot 82.60% | Best 83.67%
+Saved new best seed2 merged model: 84.40%
+MergedSeed2 | Epoch 036 | Loss 1.5588 | Train 92.15% | TrainDomain 89.77% | TrainSlot 86.23% | Test 82.87% | Test-TTA 83.93% | TestDomain 84.80% | TestTTA-Domain 84.73% | TestSlot 82.13% | TestTTA-Slot 82.73% | Best 84.40%
+MergedSeed2 | Epoch 037 | Loss 1.5093 | Train 92.23% | TrainDomain 90.69% | TrainSlot 86.75% | Test 84.13% | Test-TTA 83.87% | TestDomain 85.73% | TestTTA-Domain 85.67% | TestSlot 82.00% | TestTTA-Slot 81.87% | Best 84.40%
+MergedSeed2 | Epoch 038 | Loss 1.4985 | Train 92.28% | TrainDomain 90.59% | TrainSlot 87.49% | Test 82.40% | Test-TTA 82.80% | TestDomain 83.93% | TestTTA-Domain 83.93% | TestSlot 79.33% | TestTTA-Slot 80.67% | Best 84.40%
+MergedSeed2 | Epoch 039 | Loss 1.4758 | Train 93.03% | TrainDomain 90.95% | TrainSlot 87.15% | Test 83.40% | Test-TTA 83.93% | TestDomain 85.20% | TestTTA-Domain 85.20% | TestSlot 81.60% | TestTTA-Slot 82.27% | Best 84.40%
+MergedSeed2 | Epoch 040 | Loss 1.4859 | Train 92.45% | TrainDomain 90.59% | TrainSlot 87.39% | Test 83.73% | Test-TTA 83.87% | TestDomain 84.80% | TestTTA-Domain 85.13% | TestSlot 81.87% | TestTTA-Slot 82.73% | Best 84.40%
+MergedSeed2 | Epoch 041 | Loss 1.4508 | Train 93.51% | TrainDomain 91.16% | TrainSlot 87.95% | Test 83.33% | Test-TTA 83.47% | TestDomain 85.80% | TestTTA-Domain 85.27% | TestSlot 83.47% | TestTTA-Slot 84.00% | Best 84.40%
+MergedSeed2 | Epoch 042 | Loss 1.4179 | Train 93.60% | TrainDomain 91.85% | TrainSlot 88.69% | Test 82.80% | Test-TTA 82.93% | TestDomain 84.33% | TestTTA-Domain 84.53% | TestSlot 80.93% | TestTTA-Slot 81.53% | Best 84.40%
+MergedSeed2 | Epoch 043 | Loss 1.3936 | Train 94.01% | TrainDomain 92.13% | TrainSlot 88.93% | Test 82.87% | Test-TTA 83.47% | TestDomain 86.07% | TestTTA-Domain 86.20% | TestSlot 82.13% | TestTTA-Slot 82.93% | Best 84.40%
+MergedSeed2 | Epoch 044 | Loss 1.3733 | Train 93.77% | TrainDomain 92.37% | TrainSlot 89.53% | Test 84.13% | Test-TTA 84.20% | TestDomain 83.80% | TestTTA-Domain 84.67% | TestSlot 82.53% | TestTTA-Slot 82.80% | Best 84.40%
+MergedSeed2 | Epoch 045 | Loss 1.3296 | Train 94.43% | TrainDomain 93.41% | TrainSlot 90.24% | Test 83.33% | Test-TTA 83.33% | TestDomain 85.07% | TestTTA-Domain 85.33% | TestSlot 82.40% | TestTTA-Slot 82.60% | Best 84.40%
+MergedSeed2 | Epoch 046 | Loss 1.3607 | Train 94.32% | TrainDomain 92.40% | TrainSlot 89.57% | Test 84.60% | Test-TTA 84.47% | TestDomain 85.40% | TestTTA-Domain 85.20% | TestSlot 81.20% | TestTTA-Slot 81.40% | Best 84.40%
+Saved new best seed2 merged model: 84.60%
+ MergedSeed2 | Epoch 047 | Loss 1.3152 | Train 94.63% | TrainDomain 93.07% | TrainSlot 90.73% | Test 84.53% | Test-TTA 85.27% | TestDomain 86.73% | TestTTA-Domain 86.53% | TestSlot 83.40% | TestTTA-Slot 84.33% | Best 84.60%
+Saved new best seed2 merged model: 85.27%
+MergedSeed2 | Epoch 048 | Loss 1.2791 | Train 94.79% | TrainDomain 93.37% | TrainSlot 90.85% | Test 83.33% | Test-TTA 84.13% | TestDomain 85.60% | TestTTA-Domain 86.40% | TestSlot 81.80% | TestTTA-Slot 82.53% | Best 85.27%
+MergedSeed2 | Epoch 049 | Loss 1.2924 | Train 94.99% | TrainDomain 93.59% | TrainSlot 90.55% | Test 84.80% | Test-TTA 84.00% | TestDomain 85.73% | TestTTA-Domain 85.93% | TestSlot 82.47% | TestTTA-Slot 82.53% | Best 85.27%
+MergedSeed2 | Epoch 050 | Loss 1.2651 | Train 95.00% | TrainDomain 93.93% | TrainSlot 91.43% | Test 84.00% | Test-TTA 84.53% | TestDomain 86.53% | TestTTA-Domain 87.00% | TestSlot 82.80% | TestTTA-Slot 83.53% | Best 85.27%
+MergedSeed2 | Epoch 051 | Loss 1.2331 | Train 95.55% | TrainDomain 94.48% | TrainSlot 91.71% | Test 85.20% | Test-TTA 85.33% | TestDomain 85.60% | TestTTA-Domain 85.27% | TestSlot 84.13% | TestTTA-Slot 83.40% | Best 85.27%
+Saved new best seed2 merged model: 85.33%
+MergedSeed2 | Epoch 052 | Loss 1.2161 | Train 95.96% | TrainDomain 94.72% | TrainSlot 92.33% | Test 84.07% | Test-TTA 84.47% | TestDomain 87.13% | TestTTA-Domain 87.20% | TestSlot 84.47% | TestTTA-Slot 84.00% | Best 85.33%
+MergedSeed2 | Epoch 053 | Loss 1.1969 | Train 95.92% | TrainDomain 94.96% | TrainSlot 92.51% | Test 83.93% | Test-TTA 84.20% | TestDomain 85.87% | TestTTA-Domain 85.60% | TestSlot 82.87% | TestTTA-Slot 83.33% | Best 85.33%
+MergedSeed2 | Epoch 054 | Loss 1.1841 | Train 95.99% | TrainDomain 94.56% | TrainSlot 92.56% | Test 85.60% | Test-TTA 86.27% | TestDomain 87.20% | TestTTA-Domain 87.47% | TestSlot 85.47% | TestTTA-Slot 85.60% | Best 85.33%
+Saved new best seed2 merged model: 86.27%
+MergedSeed2 | Epoch 055 | Loss 1.1860 | Train 95.77% | TrainDomain 94.80% | TrainSlot 92.89% | Test 84.80% | Test-TTA 84.80% | TestDomain 87.33% | TestTTA-Domain 87.27% | TestSlot 82.40% | TestTTA-Slot 83.67% | Best 86.27%
+MergedSeed2 | Epoch 056 | Loss 1.1712 | Train 96.12% | TrainDomain 95.64% | TrainSlot 92.77% | Test 84.87% | Test-TTA 85.73% | TestDomain 87.13% | TestTTA-Domain 87.27% | TestSlot 83.20% | TestTTA-Slot 83.60% | Best 86.27%
+MergedSeed2 | Epoch 057 | Loss 1.1603 | Train 96.25% | TrainDomain 95.11% | TrainSlot 93.31% | Test 85.27% | Test-TTA 85.60% | TestDomain 88.73% | TestTTA-Domain 89.07% | TestSlot 84.73% | TestTTA-Slot 85.47% | Best 86.27%
+MergedSeed2 | Epoch 058 | Loss 1.1218 | Train 96.60% | TrainDomain 95.81% | TrainSlot 93.59% | Test 85.27% | Test-TTA 85.40% | TestDomain 87.33% | TestTTA-Domain 87.60% | TestSlot 85.07% | TestTTA-Slot 85.80% | Best 86.27%
+MergedSeed2 | Epoch 059 | Loss 1.1164 | Train 96.69% | TrainDomain 95.69% | TrainSlot 93.91% | Test 85.27% | Test-TTA 86.00% | TestDomain 87.40% | TestTTA-Domain 87.47% | TestSlot 84.67% | TestTTA-Slot 85.13% | Best 86.27%
+MergedSeed2 | Epoch 060 | Loss 1.0963 | Train 96.77% | TrainDomain 95.79% | TrainSlot 94.41% | Test 85.67% | Test-TTA 86.27% | TestDomain 87.60% | TestTTA-Domain 87.67% | TestSlot 84.20% | TestTTA-Slot 84.87% | Best 86.27%
+MergedSeed2 | Epoch 061 | Loss 1.1104 | Train 96.53% | TrainDomain 95.81% | TrainSlot 94.03% | Test 85.87% | Test-TTA 85.93% | TestDomain 88.67% | TestTTA-Domain 87.53% | TestSlot 84.53% | TestTTA-Slot 84.53% | Best 86.27%
+MergedSeed2 | Epoch 062 | Loss 1.0521 | Train 97.27% | TrainDomain 96.57% | TrainSlot 94.85% | Test 84.13% | Test-TTA 85.13% | TestDomain 87.73% | TestTTA-Domain 88.13% | TestSlot 84.27% | TestTTA-Slot 84.93% | Best 86.27%
+MergedSeed2 | Epoch 063 | Loss 1.0548 | Train 97.23% | TrainDomain 96.64% | TrainSlot 94.76% | Test 84.80% | Test-TTA 85.73% | TestDomain 87.60% | TestTTA-Domain 87.93% | TestSlot 84.40% | TestTTA-Slot 85.33% | Best 86.27%
+MergedSeed2 | Epoch 064 | Loss 1.0557 | Train 97.21% | TrainDomain 96.32% | TrainSlot 94.77% | Test 84.93% | Test-TTA 85.80% | TestDomain 87.80% | TestTTA-Domain 87.93% | TestSlot 84.53% | TestTTA-Slot 85.07% | Best 86.27%
+MergedSeed2 | Epoch 065 | Loss 1.0290 | Train 97.31% | TrainDomain 96.76% | TrainSlot 95.41% | Test 84.60% | Test-TTA 85.33% | TestDomain 88.33% | TestTTA-Domain 88.20% | TestSlot 83.93% | TestTTA-Slot 84.40% | Best 86.27%
+MergedSeed2 | Epoch 066 | Loss 1.0368 | Train 97.63% | TrainDomain 96.41% | TrainSlot 95.01% | Test 84.67% | Test-TTA 85.47% | TestDomain 87.33% | TestTTA-Domain 87.13% | TestSlot 83.40% | TestTTA-Slot 84.20% | Best 86.27%
+MergedSeed2 | Epoch 067 | Loss 1.0437 | Train 97.31% | TrainDomain 96.37% | TrainSlot 94.80% | Test 85.13% | Test-TTA 85.53% | TestDomain 87.60% | TestTTA-Domain 87.87% | TestSlot 84.73% | TestTTA-Slot 84.93% | Best 86.27%
+MergedSeed2 | Epoch 068 | Loss 1.0230 | Train 97.59% | TrainDomain 96.55% | TrainSlot 95.17% | Test 84.93% | Test-TTA 85.93% | TestDomain 87.60% | TestTTA-Domain 88.07% | TestSlot 83.60% | TestTTA-Slot 84.67% | Best 86.27%
+MergedSeed2 | Epoch 069 | Loss 1.0067 | Train 97.96% | TrainDomain 96.95% | TrainSlot 95.77% | Test 84.73% | Test-TTA 84.47% | TestDomain 86.67% | TestTTA-Domain 86.40% | TestSlot 83.53% | TestTTA-Slot 84.47% | Best 86.27%
+MergedSeed2 | Epoch 070 | Loss 0.9810 | Train 97.99% | TrainDomain 97.41% | TrainSlot 96.32% | Test 85.53% | Test-TTA 85.80% | TestDomain 88.47% | TestTTA-Domain 89.00% | TestSlot 84.20% | TestTTA-Slot 85.13% | Best 86.27%
+MergedSeed2 | Epoch 071 | Loss 0.9951 | Train 97.85% | TrainDomain 96.99% | TrainSlot 95.56% | Test 85.80% | Test-TTA 86.60% | TestDomain 88.60% | TestTTA-Domain 88.20% | TestSlot 84.40% | TestTTA-Slot 85.33% | Best 86.27%
+Saved new best seed2 merged model: 86.60%
+MergedSeed2 | Epoch 072 | Loss 0.9736 | Train 98.00% | TrainDomain 97.23% | TrainSlot 96.29% | Test 84.80% | Test-TTA 85.20% | TestDomain 87.60% | TestTTA-Domain 87.33% | TestSlot 84.27% | TestTTA-Slot 84.33% | Best 86.60%
+MergedSeed2 | Epoch 073 | Loss 0.9682 | Train 98.17% | TrainDomain 97.29% | TrainSlot 96.29% | Test 85.80% | Test-TTA 86.07% | TestDomain 87.73% | TestTTA-Domain 87.87% | TestSlot 85.60% | TestTTA-Slot 85.67% | Best 86.60%
+MergedSeed2 | Epoch 074 | Loss 0.9541 | Train 98.29% | TrainDomain 97.84% | TrainSlot 96.53% | Test 86.00% | Test-TTA 86.47% | TestDomain 87.80% | TestTTA-Domain 88.47% | TestSlot 85.00% | TestTTA-Slot 86.33% | Best 86.60%
+MergedSeed2 | Epoch 075 | Loss 0.9470 | Train 98.05% | TrainDomain 97.71% | TrainSlot 96.67% | Test 85.60% | Test-TTA 86.27% | TestDomain 88.73% | TestTTA-Domain 88.73% | TestSlot 83.73% | TestTTA-Slot 84.53% | Best 86.60%
+MergedSeed2 | Epoch 076 | Loss 0.9521 | Train 98.29% | TrainDomain 97.84% | TrainSlot 96.55% | Test 85.53% | Test-TTA 86.33% | TestDomain 87.93% | TestTTA-Domain 88.33% | TestSlot 85.13% | TestTTA-Slot 85.33% | Best 86.60%
+MergedSeed2 | Epoch 077 | Loss 0.9256 | Train 98.60% | TrainDomain 98.03% | TrainSlot 97.09% | Test 86.13% | Test-TTA 86.87% | TestDomain 88.60% | TestTTA-Domain 88.33% | TestSlot 85.47% | TestTTA-Slot 85.60% | Best 86.60%
+Saved new best seed2 merged model: 86.87%
+MergedSeed2 | Epoch 078 | Loss 0.8977 | Train 98.60% | TrainDomain 97.97% | TrainSlot 97.35% | Test 85.87% | Test-TTA 86.53% | TestDomain 88.73% | TestTTA-Domain 88.73% | TestSlot 84.07% | TestTTA-Slot 85.27% | Best 86.87%
+MergedSeed2 | Epoch 079 | Loss 0.9029 | Train 98.49% | TrainDomain 97.85% | TrainSlot 97.67% | Test 86.13% | Test-TTA 86.47% | TestDomain 88.33% | TestTTA-Domain 88.00% | TestSlot 84.47% | TestTTA-Slot 85.73% | Best 86.87%
+MergedSeed2 | Epoch 080 | Loss 0.9259 | Train 98.31% | TrainDomain 97.59% | TrainSlot 97.01% | Test 85.13% | Test-TTA 86.07% | TestDomain 87.67% | TestTTA-Domain 87.60% | TestSlot 84.40% | TestTTA-Slot 85.13% | Best 86.87%
+MergedSeed2 | Epoch 081 | Loss 0.9086 | Train 98.55% | TrainDomain 98.00% | TrainSlot 97.15% | Test 85.33% | Test-TTA 85.53% | TestDomain 88.53% | TestTTA-Domain 88.60% | TestSlot 85.20% | TestTTA-Slot 85.80% | Best 86.87%
+MergedSeed2 | Epoch 082 | Loss 0.9094 | Train 98.65% | TrainDomain 98.15% | TrainSlot 96.92% | Test 86.73% | Test-TTA 87.13% | TestDomain 89.60% | TestTTA-Domain 90.07% | TestSlot 85.33% | TestTTA-Slot 86.60% | Best 86.87%
+Saved new best seed2 merged model: 87.13%
+MergedSeed2 | Epoch 083 | Loss 0.8711 | Train 99.09% | TrainDomain 98.32% | TrainSlot 97.80% | Test 85.67% | Test-TTA 86.07% | TestDomain 88.13% | TestTTA-Domain 88.53% | TestSlot 85.00% | TestTTA-Slot 85.47% | Best 87.13%
+MergedSeed2 | Epoch 084 | Loss 0.8731 | Train 99.00% | TrainDomain 98.55% | TrainSlot 97.87% | Test 85.60% | Test-TTA 86.07% | TestDomain 88.87% | TestTTA-Domain 88.87% | TestSlot 85.53% | TestTTA-Slot 86.47% | Best 87.13%
+MergedSeed2 | Epoch 085 | Loss 0.8674 | Train 98.99% | TrainDomain 98.35% | TrainSlot 97.67% | Test 86.20% | Test-TTA 86.47% | TestDomain 89.27% | TestTTA-Domain 89.67% | TestSlot 85.87% | TestTTA-Slot 86.67% | Best 87.13%
+MergedSeed2 | Epoch 086 | Loss 0.8441 | Train 99.19% | TrainDomain 98.77% | TrainSlot 98.03% | Test 85.67% | Test-TTA 86.33% | TestDomain 89.33% | TestTTA-Domain 89.27% | TestSlot 84.60% | TestTTA-Slot 84.67% | Best 87.13%
+MergedSeed2 | Epoch 087 | Loss 0.8499 | Train 99.20% | TrainDomain 98.60% | TrainSlot 98.13% | Test 86.20% | Test-TTA 86.87% | TestDomain 88.80% | TestTTA-Domain 89.87% | TestSlot 85.67% | TestTTA-Slot 86.87% | Best 87.13%
+MergedSeed2 | Epoch 088 | Loss 0.8496 | Train 99.20% | TrainDomain 98.45% | TrainSlot 98.24% | Test 86.13% | Test-TTA 87.07% | TestDomain 88.40% | TestTTA-Domain 88.93% | TestSlot 86.33% | TestTTA-Slot 86.33% | Best 87.13%
+MergedSeed2 | Epoch 089 | Loss 0.8504 | Train 99.13% | TrainDomain 98.56% | TrainSlot 98.07% | Test 85.60% | Test-TTA 86.40% | TestDomain 87.73% | TestTTA-Domain 88.87% | TestSlot 86.20% | TestTTA-Slot 87.07% | Best 87.13%
+MergedSeed2 | Epoch 090 | Loss 0.8404 | Train 99.31% | TrainDomain 98.83% | TrainSlot 98.37% | Test 84.80% | Test-TTA 85.33% | TestDomain 87.67% | TestTTA-Domain 87.53% | TestSlot 84.33% | TestTTA-Slot 85.07% | Best 87.13%
+MergedSeed2 | Epoch 091 | Loss 0.8155 | Train 99.43% | TrainDomain 99.01% | TrainSlot 98.57% | Test 85.47% | Test-TTA 85.73% | TestDomain 88.53% | TestTTA-Domain 88.60% | TestSlot 83.87% | TestTTA-Slot 83.93% | Best 87.13%
+MergedSeed2 | Epoch 092 | Loss 0.8279 | Train 99.31% | TrainDomain 98.95% | TrainSlot 98.07% | Test 85.80% | Test-TTA 86.87% | TestDomain 89.27% | TestTTA-Domain 89.53% | TestSlot 85.67% | TestTTA-Slot 86.27% | Best 87.13%
+MergedSeed2 | Epoch 093 | Loss 0.8171 | Train 99.37% | TrainDomain 98.92% | TrainSlot 98.76% | Test 86.27% | Test-TTA 86.73% | TestDomain 88.87% | TestTTA-Domain 89.33% | TestSlot 85.27% | TestTTA-Slot 86.00% | Best 87.13%
+MergedSeed2 | Epoch 094 | Loss 0.8244 | Train 99.28% | TrainDomain 98.87% | TrainSlot 98.28% | Test 85.60% | Test-TTA 86.20% | TestDomain 89.87% | TestTTA-Domain 90.00% | TestSlot 85.40% | TestTTA-Slot 86.60% | Best 87.13%
+MergedSeed2 | Epoch 095 | Loss 0.8136 | Train 99.35% | TrainDomain 98.91% | TrainSlot 98.36% | Test 85.47% | Test-TTA 85.93% | TestDomain 87.93% | TestTTA-Domain 88.67% | TestSlot 85.73% | TestTTA-Slot 86.87% | Best 87.13%
+MergedSeed2 | Epoch 096 | Loss 0.8058 | Train 99.35% | TrainDomain 99.16% | TrainSlot 98.73% | Test 86.33% | Test-TTA 86.53% | TestDomain 88.73% | TestTTA-Domain 88.87% | TestSlot 85.33% | TestTTA-Slot 85.87% | Best 87.13%
+MergedSeed2 | Epoch 097 | Loss 0.8001 | Train 99.35% | TrainDomain 99.09% | TrainSlot 98.85% | Test 85.80% | Test-TTA 86.93% | TestDomain 89.20% | TestTTA-Domain 89.13% | TestSlot 86.00% | TestTTA-Slot 87.00% | Best 87.13%
+MergedSeed2 | Epoch 098 | Loss 0.8051 | Train 99.29% | TrainDomain 99.12% | TrainSlot 98.80% | Test 85.53% | Test-TTA 86.40% | TestDomain 88.13% | TestTTA-Domain 89.07% | TestSlot 85.40% | TestTTA-Slot 86.13% | Best 87.13%
+MergedSeed2 | Epoch 099 | Loss 0.7892 | Train 99.48% | TrainDomain 99.31% | TrainSlot 98.91% | Test 85.53% | Test-TTA 85.87% | TestDomain 89.67% | TestTTA-Domain 89.27% | TestSlot 86.20% | TestTTA-Slot 85.93% | Best 87.13%
+MergedSeed2 | Epoch 100 | Loss 0.7918 | Train 99.49% | TrainDomain 99.24% | TrainSlot 98.97% | Test 86.13% | Test-TTA 86.53% | TestDomain 88.73% | TestTTA-Domain 89.40% | TestSlot 86.20% | TestTTA-Slot 86.33% | Best 87.13%
+MergedSeed2 | Epoch 101 | Loss 0.7881 | Train 99.45% | TrainDomain 99.33% | TrainSlot 98.84% | Test 85.73% | Test-TTA 86.53% | TestDomain 89.87% | TestTTA-Domain 89.87% | TestSlot 85.20% | TestTTA-Slot 86.07% | Best 87.13%
+MergedSeed2 | Epoch 102 | Loss 0.7745 | Train 99.60% | TrainDomain 99.17% | TrainSlot 99.11% | Test 85.87% | Test-TTA 86.27% | TestDomain 88.93% | TestTTA-Domain 89.27% | TestSlot 85.80% | TestTTA-Slot 85.80% | Best 87.13%
+MergedSeed2 | Epoch 103 | Loss 0.7856 | Train 99.45% | TrainDomain 99.21% | TrainSlot 98.91% | Test 86.60% | Test-TTA 86.53% | TestDomain 89.60% | TestTTA-Domain 88.93% | TestSlot 86.33% | TestTTA-Slot 86.53% | Best 87.13%
+MergedSeed2 | Epoch 104 | Loss 0.7673 | Train 99.67% | TrainDomain 99.31% | TrainSlot 99.23% | Test 85.60% | Test-TTA 86.27% | TestDomain 89.13% | TestTTA-Domain 89.33% | TestSlot 86.27% | TestTTA-Slot 86.73% | Best 87.13%
+MergedSeed2 | Epoch 105 | Loss 0.7648 | Train 99.75% | TrainDomain 99.40% | TrainSlot 99.32% | Test 86.40% | Test-TTA 86.60% | TestDomain 88.87% | TestTTA-Domain 89.27% | TestSlot 86.87% | TestTTA-Slot 87.27% | Best 87.13%
+MergedSeed2 | Epoch 106 | Loss 0.7723 | Train 99.56% | TrainDomain 99.25% | TrainSlot 99.16% | Test 85.47% | Test-TTA 85.60% | TestDomain 88.27% | TestTTA-Domain 88.07% | TestSlot 85.40% | TestTTA-Slot 85.40% | Best 87.13%
+MergedSeed2 | Epoch 107 | Loss 0.7681 | Train 99.64% | TrainDomain 99.41% | TrainSlot 99.04% | Test 86.80% | Test-TTA 87.40% | TestDomain 89.93% | TestTTA-Domain 89.93% | TestSlot 86.53% | TestTTA-Slot 87.33% | Best 87.13%
+Saved new best seed2 merged model: 87.40%
+MergedSeed2 | Epoch 108 | Loss 0.7620 | Train 99.72% | TrainDomain 99.55% | TrainSlot 99.19% | Test 86.80% | Test-TTA 86.47% | TestDomain 89.93% | TestTTA-Domain 89.53% | TestSlot 86.27% | TestTTA-Slot 86.93% | Best 87.40%
+MergedSeed2 | Epoch 109 | Loss 0.7725 | Train 99.60% | TrainDomain 99.33% | TrainSlot 99.11% | Test 85.80% | Test-TTA 86.07% | TestDomain 88.93% | TestTTA-Domain 88.80% | TestSlot 86.40% | TestTTA-Slot 87.13% | Best 87.40%
+MergedSeed2 | Epoch 110 | Loss 0.7574 | Train 99.72% | TrainDomain 99.48% | TrainSlot 99.19% | Test 86.93% | Test-TTA 86.87% | TestDomain 89.60% | TestTTA-Domain 89.40% | TestSlot 86.53% | TestTTA-Slot 87.13% | Best 87.40%
+MergedSeed2 | Epoch 111 | Loss 0.7566 | Train 99.71% | TrainDomain 99.36% | TrainSlot 99.25% | Test 85.80% | Test-TTA 86.53% | TestDomain 89.07% | TestTTA-Domain 89.27% | TestSlot 86.87% | TestTTA-Slot 86.47% | Best 87.40%
+MergedSeed2 | Epoch 112 | Loss 0.7554 | Train 99.67% | TrainDomain 99.47% | TrainSlot 99.33% | Test 86.07% | Test-TTA 86.53% | TestDomain 89.93% | TestTTA-Domain 90.20% | TestSlot 85.80% | TestTTA-Slot 86.07% | Best 87.40%
+MergedSeed2 | Epoch 113 | Loss 0.7509 | Train 99.68% | TrainDomain 99.48% | TrainSlot 99.24% | Test 86.60% | Test-TTA 87.00% | TestDomain 89.40% | TestTTA-Domain 89.53% | TestSlot 85.93% | TestTTA-Slot 86.80% | Best 87.40%
+MergedSeed2 | Epoch 114 | Loss 0.7413 | Train 99.77% | TrainDomain 99.57% | TrainSlot 99.33% | Test 86.00% | Test-TTA 86.27% | TestDomain 89.40% | TestTTA-Domain 90.00% | TestSlot 86.27% | TestTTA-Slot 86.87% | Best 87.40%
+MergedSeed2 | Epoch 115 | Loss 0.7378 | Train 99.75% | TrainDomain 99.45% | TrainSlot 99.45% | Test 86.07% | Test-TTA 87.00% | TestDomain 89.33% | TestTTA-Domain 90.33% | TestSlot 85.80% | TestTTA-Slot 86.93% | Best 87.40%
+MergedSeed2 | Epoch 116 | Loss 0.7458 | Train 99.63% | TrainDomain 99.27% | TrainSlot 99.48% | Test 85.33% | Test-TTA 85.80% | TestDomain 89.67% | TestTTA-Domain 89.47% | TestSlot 85.60% | TestTTA-Slot 86.20% | Best 87.40%
+MergedSeed2 | Epoch 117 | Loss 0.7431 | Train 99.75% | TrainDomain 99.47% | TrainSlot 99.28% | Test 86.40% | Test-TTA 87.40% | TestDomain 89.40% | TestTTA-Domain 90.60% | TestSlot 86.07% | TestTTA-Slot 86.47% | Best 87.40%
+MergedSeed2 | Epoch 118 | Loss 0.7354 | Train 99.76% | TrainDomain 99.52% | TrainSlot 99.52% | Test 86.47% | Test-TTA 86.87% | TestDomain 89.20% | TestTTA-Domain 89.60% | TestSlot 86.53% | TestTTA-Slot 87.27% | Best 87.40%
+MergedSeed2 | Epoch 119 | Loss 0.7292 | Train 99.88% | TrainDomain 99.49% | TrainSlot 99.56% | Test 86.40% | Test-TTA 86.93% | TestDomain 90.00% | TestTTA-Domain 90.07% | TestSlot 85.87% | TestTTA-Slot 86.53% | Best 87.40%
+MergedSeed2 | Epoch 120 | Loss 0.7368 | Train 99.80% | TrainDomain 99.55% | TrainSlot 99.53% | Test 85.87% | Test-TTA 86.33% | TestDomain 89.13% | TestTTA-Domain 89.67% | TestSlot 86.47% | TestTTA-Slot 86.47% | Best 87.40%
+MergedSeed2 | Epoch 121 | Loss 0.7328 | Train 99.73% | TrainDomain 99.53% | TrainSlot 99.44% | Test 85.60% | Test-TTA 86.67% | TestDomain 88.73% | TestTTA-Domain 88.67% | TestSlot 85.60% | TestTTA-Slot 86.33% | Best 87.40%
+MergedSeed2 | Epoch 122 | Loss 0.7226 | Train 99.87% | TrainDomain 99.76% | TrainSlot 99.65% | Test 86.07% | Test-TTA 86.47% | TestDomain 89.00% | TestTTA-Domain 89.93% | TestSlot 86.00% | TestTTA-Slot 86.40% | Best 87.40%
+MergedSeed2 | Epoch 123 | Loss 0.7218 | Train 99.77% | TrainDomain 99.75% | TrainSlot 99.52% | Test 85.80% | Test-TTA 86.53% | TestDomain 89.60% | TestTTA-Domain 89.87% | TestSlot 86.07% | TestTTA-Slot 86.67% | Best 87.40%
+MergedSeed2 | Epoch 124 | Loss 0.7275 | Train 99.79% | TrainDomain 99.63% | TrainSlot 99.56% | Test 86.00% | Test-TTA 86.00% | TestDomain 88.93% | TestTTA-Domain 89.07% | TestSlot 85.87% | TestTTA-Slot 86.47% | Best 87.40%
+MergedSeed2 | Epoch 125 | Loss 0.7234 | Train 99.81% | TrainDomain 99.73% | TrainSlot 99.63% | Test 86.53% | Test-TTA 86.73% | TestDomain 89.33% | TestTTA-Domain 89.13% | TestSlot 86.60% | TestTTA-Slot 87.07% | Best 87.40%
+MergedSeed2 | Epoch 126 | Loss 0.7185 | Train 99.83% | TrainDomain 99.63% | TrainSlot 99.64% | Test 86.60% | Test-TTA 86.47% | TestDomain 88.73% | TestTTA-Domain 89.20% | TestSlot 86.07% | TestTTA-Slot 86.67% | Best 87.40%
+MergedSeed2 | Epoch 127 | Loss 0.7151 | Train 99.87% | TrainDomain 99.72% | TrainSlot 99.67% | Test 86.13% | Test-TTA 87.20% | TestDomain 89.07% | TestTTA-Domain 89.47% | TestSlot 87.13% | TestTTA-Slot 87.53% | Best 87.40%
+MergedSeed2 | Epoch 128 | Loss 0.7162 | Train 99.88% | TrainDomain 99.64% | TrainSlot 99.60% | Test 86.47% | Test-TTA 86.87% | TestDomain 89.27% | TestTTA-Domain 89.73% | TestSlot 86.40% | TestTTA-Slot 86.67% | Best 87.40%
+MergedSeed2 | Epoch 129 | Loss 0.7144 | Train 99.87% | TrainDomain 99.65% | TrainSlot 99.59% | Test 86.40% | Test-TTA 86.80% | TestDomain 89.47% | TestTTA-Domain 89.80% | TestSlot 86.40% | TestTTA-Slot 86.67% | Best 87.40%
+MergedSeed2 | Epoch 130 | Loss 0.7139 | Train 99.89% | TrainDomain 99.73% | TrainSlot 99.60% | Test 86.80% | Test-TTA 86.60% | TestDomain 89.00% | TestTTA-Domain 89.47% | TestSlot 86.33% | TestTTA-Slot 86.80% | Best 87.40%
+MergedSeed2 | Epoch 131 | Loss 0.7103 | Train 99.81% | TrainDomain 99.76% | TrainSlot 99.61% | Test 86.67% | Test-TTA 86.27% | TestDomain 89.60% | TestTTA-Domain 90.07% | TestSlot 86.47% | TestTTA-Slot 87.13% | Best 87.40%
+MergedSeed2 | Epoch 132 | Loss 0.7159 | Train 99.84% | TrainDomain 99.63% | TrainSlot 99.71% | Test 86.27% | Test-TTA 86.33% | TestDomain 89.47% | TestTTA-Domain 89.87% | TestSlot 86.80% | TestTTA-Slot 86.73% | Best 87.40%
+MergedSeed2 | Epoch 133 | Loss 0.7113 | Train 99.81% | TrainDomain 99.80% | TrainSlot 99.61% | Test 86.60% | Test-TTA 87.13% | TestDomain 89.53% | TestTTA-Domain 89.80% | TestSlot 87.20% | TestTTA-Slot 87.60% | Best 87.40%
+MergedSeed2 | Epoch 134 | Loss 0.7072 | Train 99.84% | TrainDomain 99.69% | TrainSlot 99.65% | Test 86.60% | Test-TTA 86.87% | TestDomain 89.27% | TestTTA-Domain 89.80% | TestSlot 85.93% | TestTTA-Slot 87.13% | Best 87.40%
+MergedSeed2 | Epoch 135 | Loss 0.7069 | Train 99.91% | TrainDomain 99.75% | TrainSlot 99.73% | Test 87.33% | Test-TTA 87.87% | TestDomain 90.07% | TestTTA-Domain 90.33% | TestSlot 86.60% | TestTTA-Slot 87.07% | Best 87.40%
+Saved new best seed2 merged model: 87.87%
+MergedSeed2 | Epoch 136 | Loss 0.7037 | Train 99.85% | TrainDomain 99.84% | TrainSlot 99.71% | Test 86.13% | Test-TTA 86.53% | TestDomain 89.67% | TestTTA-Domain 89.40% | TestSlot 86.27% | TestTTA-Slot 86.27% | Best 87.87%
+MergedSeed2 | Epoch 137 | Loss 0.7012 | Train 99.89% | TrainDomain 99.83% | TrainSlot 99.72% | Test 86.20% | Test-TTA 86.67% | TestDomain 88.73% | TestTTA-Domain 89.53% | TestSlot 86.67% | TestTTA-Slot 86.73% | Best 87.87%
+MergedSeed2 | Epoch 138 | Loss 0.6971 | Train 99.93% | TrainDomain 99.88% | TrainSlot 99.80% | Test 86.47% | Test-TTA 86.93% | TestDomain 89.67% | TestTTA-Domain 90.00% | TestSlot 86.27% | TestTTA-Slot 86.40% | Best 87.87%
+MergedSeed2 | Epoch 139 | Loss 0.7010 | Train 99.95% | TrainDomain 99.77% | TrainSlot 99.69% | Test 85.80% | Test-TTA 86.33% | TestDomain 89.13% | TestTTA-Domain 89.87% | TestSlot 86.53% | TestTTA-Slot 86.87% | Best 87.87%
+MergedSeed2 | Epoch 140 | Loss 0.7013 | Train 99.85% | TrainDomain 99.79% | TrainSlot 99.76% | Test 87.13% | Test-TTA 87.27% | TestDomain 90.13% | TestTTA-Domain 90.00% | TestSlot 87.27% | TestTTA-Slot 87.93% | Best 87.87%
+MergedSeed2 | Epoch 141 | Loss 0.6948 | Train 99.95% | TrainDomain 99.85% | TrainSlot 99.80% | Test 86.33% | Test-TTA 86.33% | TestDomain 89.80% | TestTTA-Domain 90.07% | TestSlot 86.73% | TestTTA-Slot 87.20% | Best 87.87%
+MergedSeed2 | Epoch 142 | Loss 0.6999 | Train 99.88% | TrainDomain 99.71% | TrainSlot 99.75% | Test 86.33% | Test-TTA 86.80% | TestDomain 90.00% | TestTTA-Domain 90.80% | TestSlot 87.13% | TestTTA-Slot 87.60% | Best 87.87%
+MergedSeed2 | Epoch 143 | Loss 0.6980 | Train 99.91% | TrainDomain 99.89% | TrainSlot 99.76% | Test 86.73% | Test-TTA 86.93% | TestDomain 90.47% | TestTTA-Domain 90.40% | TestSlot 86.93% | TestTTA-Slot 87.73% | Best 87.87%
+MergedSeed2 | Epoch 144 | Loss 0.6925 | Train 99.91% | TrainDomain 99.83% | TrainSlot 99.80% | Test 86.47% | Test-TTA 86.33% | TestDomain 90.00% | TestTTA-Domain 90.07% | TestSlot 86.87% | TestTTA-Slot 87.13% | Best 87.87%
+MergedSeed2 | Epoch 145 | Loss 0.6913 | Train 99.93% | TrainDomain 99.85% | TrainSlot 99.83% | Test 86.67% | Test-TTA 86.67% | TestDomain 89.60% | TestTTA-Domain 90.00% | TestSlot 86.53% | TestTTA-Slot 87.27% | Best 87.87%
+MergedSeed2 | Epoch 146 | Loss 0.6971 | Train 99.89% | TrainDomain 99.85% | TrainSlot 99.71% | Test 86.47% | Test-TTA 87.33% | TestDomain 90.13% | TestTTA-Domain 90.07% | TestSlot 86.40% | TestTTA-Slot 87.00% | Best 87.87%
+MergedSeed2 | Epoch 147 | Loss 0.6915 | Train 99.93% | TrainDomain 99.87% | TrainSlot 99.76% | Test 86.53% | Test-TTA 87.53% | TestDomain 89.60% | TestTTA-Domain 90.13% | TestSlot 86.80% | TestTTA-Slot 87.93% | Best 87.87%
+MergedSeed2 | Epoch 148 | Loss 0.6986 | Train 99.93% | TrainDomain 99.87% | TrainSlot 99.69% | Test 86.80% | Test-TTA 87.13% | TestDomain 90.00% | TestTTA-Domain 89.67% | TestSlot 87.67% | TestTTA-Slot 87.67% | Best 87.87%
+MergedSeed2 | Epoch 149 | Loss 0.6889 | Train 99.95% | TrainDomain 99.84% | TrainSlot 99.88% | Test 86.67% | Test-TTA 87.27% | TestDomain 90.33% | TestTTA-Domain 89.93% | TestSlot 87.33% | TestTTA-Slot 87.87% | Best 87.87%
+MergedSeed2 | Epoch 150 | Loss 0.6859 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.88% | Test 86.47% | Test-TTA 86.80% | TestDomain 89.27% | TestTTA-Domain 90.07% | TestSlot 86.67% | TestTTA-Slot 87.20% | Best 87.87%
+MergedSeed2 | Epoch 151 | Loss 0.6856 | Train 99.92% | TrainDomain 99.87% | TrainSlot 99.83% | Test 87.07% | Test-TTA 87.80% | TestDomain 90.27% | TestTTA-Domain 90.47% | TestSlot 86.87% | TestTTA-Slot 88.07% | Best 87.87%
+MergedSeed2 | Epoch 152 | Loss 0.6862 | Train 99.95% | TrainDomain 99.88% | TrainSlot 99.81% | Test 86.93% | Test-TTA 87.13% | TestDomain 89.33% | TestTTA-Domain 90.27% | TestSlot 87.07% | TestTTA-Slot 87.93% | Best 87.87%
+MergedSeed2 | Epoch 153 | Loss 0.6800 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.83% | Test 86.47% | Test-TTA 86.87% | TestDomain 89.13% | TestTTA-Domain 89.93% | TestSlot 87.13% | TestTTA-Slot 87.53% | Best 87.87%
+MergedSeed2 | Epoch 154 | Loss 0.6859 | Train 99.97% | TrainDomain 99.85% | TrainSlot 99.87% | Test 87.20% | Test-TTA 87.27% | TestDomain 90.13% | TestTTA-Domain 90.47% | TestSlot 87.00% | TestTTA-Slot 88.47% | Best 87.87%
+MergedSeed2 | Epoch 155 | Loss 0.6809 | Train 99.97% | TrainDomain 99.87% | TrainSlot 99.91% | Test 87.33% | Test-TTA 88.07% | TestDomain 90.33% | TestTTA-Domain 90.60% | TestSlot 87.40% | TestTTA-Slot 88.27% | Best 87.87%
+Saved new best seed2 merged model: 88.07%
+MergedSeed2 | Epoch 156 | Loss 0.6866 | Train 99.95% | TrainDomain 99.88% | TrainSlot 99.87% | Test 86.93% | Test-TTA 87.27% | TestDomain 90.27% | TestTTA-Domain 90.60% | TestSlot 86.87% | TestTTA-Slot 88.20% | Best 88.07%
+MergedSeed2 | Epoch 157 | Loss 0.6823 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.89% | Test 86.67% | Test-TTA 87.13% | TestDomain 89.87% | TestTTA-Domain 90.53% | TestSlot 86.53% | TestTTA-Slot 87.73% | Best 88.07%
+MergedSeed2 | Epoch 158 | Loss 0.6815 | Train 99.96% | TrainDomain 99.83% | TrainSlot 99.85% | Test 86.87% | Test-TTA 86.93% | TestDomain 90.07% | TestTTA-Domain 90.00% | TestSlot 86.67% | TestTTA-Slot 88.20% | Best 88.07%
+MergedSeed2 | Epoch 159 | Loss 0.6842 | Train 99.96% | TrainDomain 99.87% | TrainSlot 99.89% | Test 87.00% | Test-TTA 87.67% | TestDomain 90.07% | TestTTA-Domain 90.60% | TestSlot 87.00% | TestTTA-Slot 88.07% | Best 88.07%
+MergedSeed2 | Epoch 160 | Loss 0.6783 | Train 99.95% | TrainDomain 99.92% | TrainSlot 99.83% | Test 86.47% | Test-TTA 87.27% | TestDomain 90.13% | TestTTA-Domain 90.40% | TestSlot 86.67% | TestTTA-Slot 87.60% | Best 88.07%
+MergedSeed2 | Epoch 161 | Loss 0.6776 | Train 99.97% | TrainDomain 99.80% | TrainSlot 99.95% | Test 86.93% | Test-TTA 87.40% | TestDomain 89.93% | TestTTA-Domain 90.13% | TestSlot 86.87% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 162 | Loss 0.6820 | Train 99.91% | TrainDomain 99.89% | TrainSlot 99.85% | Test 86.60% | Test-TTA 87.00% | TestDomain 89.73% | TestTTA-Domain 89.73% | TestSlot 87.20% | TestTTA-Slot 87.87% | Best 88.07%
+MergedSeed2 | Epoch 163 | Loss 0.6801 | Train 99.99% | TrainDomain 99.91% | TrainSlot 99.87% | Test 86.93% | Test-TTA 87.73% | TestDomain 90.27% | TestTTA-Domain 90.87% | TestSlot 87.00% | TestTTA-Slot 87.87% | Best 88.07%
+MergedSeed2 | Epoch 164 | Loss 0.6817 | Train 99.95% | TrainDomain 99.91% | TrainSlot 99.83% | Test 86.87% | Test-TTA 87.27% | TestDomain 90.07% | TestTTA-Domain 90.27% | TestSlot 86.93% | TestTTA-Slot 87.60% | Best 88.07%
+MergedSeed2 | Epoch 165 | Loss 0.6786 | Train 99.93% | TrainDomain 99.89% | TrainSlot 99.84% | Test 86.73% | Test-TTA 86.87% | TestDomain 89.87% | TestTTA-Domain 89.87% | TestSlot 86.80% | TestTTA-Slot 87.40% | Best 88.07%
+MergedSeed2 | Epoch 166 | Loss 0.6798 | Train 99.92% | TrainDomain 99.85% | TrainSlot 99.92% | Test 86.93% | Test-TTA 87.53% | TestDomain 89.80% | TestTTA-Domain 90.53% | TestSlot 86.93% | TestTTA-Slot 87.80% | Best 88.07%
+MergedSeed2 | Epoch 167 | Loss 0.6777 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.89% | Test 87.20% | Test-TTA 87.33% | TestDomain 90.20% | TestTTA-Domain 90.47% | TestSlot 87.00% | TestTTA-Slot 87.60% | Best 88.07%
+MergedSeed2 | Epoch 168 | Loss 0.6773 | Train 99.99% | TrainDomain 99.88% | TrainSlot 99.89% | Test 87.07% | Test-TTA 87.27% | TestDomain 89.80% | TestTTA-Domain 90.13% | TestSlot 87.60% | TestTTA-Slot 87.93% | Best 88.07%
+MergedSeed2 | Epoch 169 | Loss 0.6781 | Train 99.97% | TrainDomain 99.91% | TrainSlot 99.87% | Test 87.20% | Test-TTA 87.73% | TestDomain 90.13% | TestTTA-Domain 90.67% | TestSlot 87.53% | TestTTA-Slot 88.47% | Best 88.07%
+MergedSeed2 | Epoch 170 | Loss 0.6769 | Train 99.97% | TrainDomain 99.87% | TrainSlot 99.96% | Test 86.73% | Test-TTA 86.93% | TestDomain 89.80% | TestTTA-Domain 90.13% | TestSlot 86.60% | TestTTA-Slot 87.93% | Best 88.07%
+MergedSeed2 | Epoch 171 | Loss 0.6795 | Train 99.95% | TrainDomain 99.96% | TrainSlot 99.88% | Test 86.87% | Test-TTA 87.07% | TestDomain 89.87% | TestTTA-Domain 90.67% | TestSlot 87.00% | TestTTA-Slot 88.07% | Best 88.07%
+MergedSeed2 | Epoch 172 | Loss 0.6774 | Train 99.96% | TrainDomain 99.89% | TrainSlot 99.92% | Test 86.73% | Test-TTA 87.60% | TestDomain 90.07% | TestTTA-Domain 89.93% | TestSlot 87.13% | TestTTA-Slot 87.87% | Best 88.07%
+MergedSeed2 | Epoch 173 | Loss 0.6769 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.85% | Test 87.27% | Test-TTA 87.73% | TestDomain 90.20% | TestTTA-Domain 90.53% | TestSlot 87.80% | TestTTA-Slot 88.47% | Best 88.07%
+MergedSeed2 | Epoch 174 | Loss 0.6749 | Train 99.93% | TrainDomain 99.89% | TrainSlot 99.91% | Test 87.13% | Test-TTA 87.40% | TestDomain 90.07% | TestTTA-Domain 90.60% | TestSlot 87.33% | TestTTA-Slot 88.00% | Best 88.07%
+MergedSeed2 | Epoch 175 | Loss 0.6717 | Train 99.99% | TrainDomain 99.93% | TrainSlot 99.89% | Test 86.87% | Test-TTA 87.33% | TestDomain 90.07% | TestTTA-Domain 90.07% | TestSlot 86.87% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 176 | Loss 0.6734 | Train 99.97% | TrainDomain 99.88% | TrainSlot 99.89% | Test 87.07% | Test-TTA 88.00% | TestDomain 90.33% | TestTTA-Domain 90.13% | TestSlot 87.13% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 177 | Loss 0.6760 | Train 99.97% | TrainDomain 99.92% | TrainSlot 99.87% | Test 86.67% | Test-TTA 86.73% | TestDomain 90.00% | TestTTA-Domain 90.27% | TestSlot 87.27% | TestTTA-Slot 88.33% | Best 88.07%
+MergedSeed2 | Epoch 178 | Loss 0.6761 | Train 100.00% | TrainDomain 99.97% | TrainSlot 99.96% | Test 86.80% | Test-TTA 87.40% | TestDomain 90.40% | TestTTA-Domain 90.67% | TestSlot 87.40% | TestTTA-Slot 88.40% | Best 88.07%
+MergedSeed2 | Epoch 179 | Loss 0.6716 | Train 99.97% | TrainDomain 99.89% | TrainSlot 99.92% | Test 86.93% | Test-TTA 87.00% | TestDomain 89.93% | TestTTA-Domain 90.07% | TestSlot 87.00% | TestTTA-Slot 87.73% | Best 88.07%
+MergedSeed2 | Epoch 180 | Loss 0.6768 | Train 99.93% | TrainDomain 99.85% | TrainSlot 99.84% | Test 87.00% | Test-TTA 87.27% | TestDomain 90.13% | TestTTA-Domain 90.20% | TestSlot 87.00% | TestTTA-Slot 88.07% | Best 88.07%
+MergedSeed2 | Epoch 181 | Loss 0.6738 | Train 99.95% | TrainDomain 99.88% | TrainSlot 99.84% | Test 87.27% | Test-TTA 87.73% | TestDomain 90.00% | TestTTA-Domain 90.53% | TestSlot 87.40% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 182 | Loss 0.6727 | Train 99.96% | TrainDomain 99.88% | TrainSlot 99.87% | Test 87.13% | Test-TTA 87.33% | TestDomain 90.07% | TestTTA-Domain 91.07% | TestSlot 87.00% | TestTTA-Slot 88.13% | Best 88.07%
+MergedSeed2 | Epoch 183 | Loss 0.6756 | Train 99.96% | TrainDomain 99.96% | TrainSlot 99.84% | Test 87.00% | Test-TTA 87.60% | TestDomain 89.80% | TestTTA-Domain 89.87% | TestSlot 87.20% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 184 | Loss 0.6791 | Train 99.95% | TrainDomain 99.85% | TrainSlot 99.87% | Test 87.00% | Test-TTA 87.07% | TestDomain 89.87% | TestTTA-Domain 90.07% | TestSlot 86.87% | TestTTA-Slot 88.07% | Best 88.07%
+MergedSeed2 | Epoch 185 | Loss 0.6721 | Train 99.95% | TrainDomain 99.92% | TrainSlot 99.92% | Test 87.13% | Test-TTA 87.73% | TestDomain 90.33% | TestTTA-Domain 90.93% | TestSlot 86.87% | TestTTA-Slot 88.40% | Best 88.07%
+MergedSeed2 | Epoch 186 | Loss 0.6726 | Train 99.97% | TrainDomain 99.89% | TrainSlot 99.84% | Test 87.13% | Test-TTA 87.47% | TestDomain 89.93% | TestTTA-Domain 90.27% | TestSlot 87.13% | TestTTA-Slot 88.00% | Best 88.07%
+MergedSeed2 | Epoch 187 | Loss 0.6716 | Train 100.00% | TrainDomain 99.93% | TrainSlot 99.84% | Test 87.40% | Test-TTA 87.47% | TestDomain 89.60% | TestTTA-Domain 90.47% | TestSlot 87.13% | TestTTA-Slot 88.13% | Best 88.07%
+MergedSeed2 | Epoch 188 | Loss 0.6715 | Train 99.96% | TrainDomain 99.97% | TrainSlot 99.88% | Test 87.13% | Test-TTA 87.80% | TestDomain 90.20% | TestTTA-Domain 90.27% | TestSlot 87.20% | TestTTA-Slot 88.27% | Best 88.07%
+MergedSeed2 | Epoch 189 | Loss 0.6721 | Train 99.96% | TrainDomain 99.91% | TrainSlot 99.92% | Test 87.27% | Test-TTA 87.53% | TestDomain 89.67% | TestTTA-Domain 90.47% | TestSlot 87.13% | TestTTA-Slot 87.87% | Best 88.07%
+MergedSeed2 | Epoch 190 | Loss 0.6727 | Train 99.97% | TrainDomain 99.87% | TrainSlot 99.87% | Test 86.93% | Test-TTA 87.27% | TestDomain 89.87% | TestTTA-Domain 90.20% | TestSlot 87.00% | TestTTA-Slot 88.07% | Best 88.07%
+Early stopping: seed2 merged accuracy stopped improving.
+
+Best seed2 merged acc = 88.07% at epoch 155
+
+Final Seed2 Merged Test Accuracy: 87.33%
+Final Seed2 Merged Test-TTA Accuracy: 88.07%
+Final Seed2 Merged TestDomain Accuracy: 90.33%
+Final Seed2 Merged TestTTA-Domain Accuracy: 90.60%
+Final Seed2 Merged TestSlot Accuracy: 87.40%
+Final Seed2 Merged TestTTA-Slot Accuracy: 88.27%
+
+TTA confusion matrix rows=true cols=pred
+Labels: [0, 1, 2, 10, 11, 12, 20, 21, 22, 30, 31, 32, 40, 41, 42]
+[[96, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0], [0, 96, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0], [0, 1, 82, 2, 10, 0, 0, 1, 1, 0, 1, 2, 0, 0, 0], [3, 2, 1, 77, 2, 0, 0, 0, 4, 1, 2, 1, 5, 2, 0], [0, 0, 15, 0, 81, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0], [0, 0, 0, 0, 0, 98, 0, 0, 1, 0, 0, 0, 1, 0, 0], [2, 0, 1, 1, 0, 0, 93, 1, 0, 0, 0, 0, 2, 0, 0], [0, 0, 0, 0, 0, 0, 0, 96, 0, 0, 2, 1, 1, 0, 0], [0, 3, 1, 8, 2, 0, 1, 0, 77, 1, 0, 1, 4, 1, 1], [0, 0, 0, 0, 2, 0, 0, 1, 0, 92, 1, 3, 1, 0, 0], [0, 1, 2, 0, 2, 0, 0, 2, 0, 0, 86, 4, 1, 1, 1], [0, 6, 2, 2, 5, 2, 0, 0, 1, 0, 1, 77, 1, 1, 2], [2, 2, 1, 3, 0, 1, 2, 0, 4, 2, 1, 0, 81, 1, 0], [0, 0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 96, 0], [0, 1, 0, 0, 0, 0, 1, 2, 0, 1, 0, 2, 0, 0, 93]]
+Class 0: 96/100 = 96.00%
+Class 1: 96/100 = 96.00%
+Class 2: 82/100 = 82.00%
+Class 10: 77/100 = 77.00%
+Class 11: 81/100 = 81.00%
+Class 12: 98/100 = 98.00%
+Class 20: 93/100 = 93.00%
+Class 21: 96/100 = 96.00%
+Class 22: 77/100 = 77.00%
+Class 30: 92/100 = 92.00%
+Class 31: 86/100 = 86.00%
+Class 32: 77/100 = 77.00%
+Class 40: 81/100 = 81.00%
+Class 41: 96/100 = 96.00%
+Class 42: 93/100 = 93.00%
+
+Top confusions:
+11 -> 2: 15
+2 -> 11: 10
+22 -> 10: 8
+32 -> 1: 6
+32 -> 11: 5
+10 -> 40: 5
+40 -> 22: 4
+31 -> 32: 4
+22 -> 40: 4
+10 -> 22: 4
+40 -> 10: 3
+30 -> 32: 3
+22 -> 1: 3
+10 -> 0: 3
+42 -> 32: 2
+42 -> 21: 2
+41 -> 10: 2
+40 -> 30: 2
+40 -> 20: 2
+40 -> 1: 2
+
+Saved seed2 final merged model to checkpoints_taskA\merged_image_gate_seed2_final.pth
+Best seed2 model path: checkpoints_taskA\merged_image_gate_seed2_best.pth
+
+Process finished with exit code 0
