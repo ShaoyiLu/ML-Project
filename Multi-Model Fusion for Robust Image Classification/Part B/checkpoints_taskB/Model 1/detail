@@ -1,0 +1,176 @@
+Device: cpu
+ModelB-1 labels: [34, 137, 159, 173, 201]
+ModelB-1 label map: {34: 0, 137: 1, 159: 2, 173: 3, 201: 4}
+Trainable parameters: 3732485
+ModelB-1-lowlr | Epoch 001 | Loss 1.4292 | Train 41.57% | Val 48.40% | Best 0.00%
+Saved new best ModelB-1-lowlr: 48.40%
+ModelB-1-lowlr | Epoch 002 | Loss 1.3246 | Train 47.11% | Val 54.40% | Best 48.40%
+Saved new best ModelB-1-lowlr: 54.40%
+ModelB-1-lowlr | Epoch 003 | Loss 1.2597 | Train 49.86% | Val 56.40% | Best 54.40%
+Saved new best ModelB-1-lowlr: 56.40%
+ModelB-1-lowlr | Epoch 004 | Loss 1.2049 | Train 53.96% | Val 50.80% | Best 56.40%
+ModelB-1-lowlr | Epoch 005 | Loss 1.1669 | Train 55.18% | Val 55.20% | Best 56.40%
+ModelB-1-lowlr | Epoch 006 | Loss 1.0954 | Train 59.81% | Val 60.80% | Best 56.40%
+Saved new best ModelB-1-lowlr: 60.80%
+ModelB-1-lowlr | Epoch 007 | Loss 1.0412 | Train 63.34% | Val 54.40% | Best 60.80%
+ModelB-1-lowlr | Epoch 008 | Loss 1.0131 | Train 63.62% | Val 61.20% | Best 60.80%
+Saved new best ModelB-1-lowlr: 61.20%
+ModelB-1-lowlr | Epoch 009 | Loss 0.9546 | Train 66.94% | Val 62.40% | Best 61.20%
+Saved new best ModelB-1-lowlr: 62.40%
+ModelB-1-lowlr | Epoch 010 | Loss 0.9063 | Train 70.16% | Val 67.20% | Best 62.40%
+Saved new best ModelB-1-lowlr: 67.20%
+ModelB-1-lowlr | Epoch 011 | Loss 0.8806 | Train 70.03% | Val 59.60% | Best 67.20%
+ModelB-1-lowlr | Epoch 012 | Loss 0.8343 | Train 72.91% | Val 64.40% | Best 67.20%
+ModelB-1-lowlr | Epoch 013 | Loss 0.7913 | Train 75.20% | Val 68.80% | Best 67.20%
+Saved new best ModelB-1-lowlr: 68.80%
+ModelB-1-lowlr | Epoch 014 | Loss 0.7523 | Train 76.23% | Val 64.80% | Best 68.80%
+ModelB-1-lowlr | Epoch 015 | Loss 0.7014 | Train 79.04% | Val 73.60% | Best 68.80%
+Saved new best ModelB-1-lowlr: 73.60%
+ModelB-1-lowlr | Epoch 016 | Loss 0.6358 | Train 82.11% | Val 67.20% | Best 73.60%
+ModelB-1-lowlr | Epoch 017 | Loss 0.5974 | Train 83.27% | Val 61.60% | Best 73.60%
+ModelB-1-lowlr | Epoch 018 | Loss 0.5459 | Train 86.08% | Val 69.20% | Best 73.60%
+ModelB-1-lowlr | Epoch 019 | Loss 0.5180 | Train 86.80% | Val 71.20% | Best 73.60%
+ModelB-1-lowlr | Epoch 020 | Loss 0.4840 | Train 89.33% | Val 68.40% | Best 73.60%
+ModelB-1-lowlr | Epoch 021 | Loss 0.4468 | Train 90.58% | Val 65.20% | Best 73.60%
+ModelB-1-lowlr | Epoch 022 | Loss 0.4101 | Train 92.15% | Val 72.00% | Best 73.60%
+ModelB-1-lowlr | Epoch 023 | Loss 0.3786 | Train 94.06% | Val 69.20% | Best 73.60%
+ModelB-1-lowlr | Epoch 024 | Loss 0.3442 | Train 95.40% | Val 66.00% | Best 73.60%
+ModelB-1-lowlr | Epoch 025 | Loss 0.3345 | Train 95.34% | Val 64.80% | Best 73.60%
+ModelB-1-lowlr | Epoch 026 | Loss 0.3128 | Train 97.15% | Val 68.80% | Best 73.60%
+ModelB-1-lowlr | Epoch 027 | Loss 0.2906 | Train 97.50% | Val 70.00% | Best 73.60%
+ModelB-1-lowlr | Epoch 028 | Loss 0.2906 | Train 97.75% | Val 77.20% | Best 73.60%
+Saved new best ModelB-1-lowlr: 77.20%
+ModelB-1-lowlr | Epoch 029 | Loss 0.2691 | Train 98.62% | Val 73.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 030 | Loss 0.2578 | Train 98.62% | Val 60.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 031 | Loss 0.2565 | Train 98.91% | Val 69.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 032 | Loss 0.2418 | Train 99.37% | Val 64.80% | Best 77.20%
+ModelB-1-lowlr | Epoch 033 | Loss 0.2325 | Train 99.59% | Val 75.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 034 | Loss 0.2251 | Train 99.84% | Val 76.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 035 | Loss 0.2258 | Train 99.78% | Val 74.00% | Best 77.20%
+ModelB-1-lowlr | Epoch 036 | Loss 0.2227 | Train 99.75% | Val 75.60% | Best 77.20%
+ModelB-1-lowlr | Epoch 037 | Loss 0.2126 | Train 99.91% | Val 70.80% | Best 77.20%
+ModelB-1-lowlr | Epoch 038 | Loss 0.2103 | Train 99.97% | Val 77.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 039 | Loss 0.2086 | Train 99.94% | Val 70.80% | Best 77.20%
+ModelB-1-lowlr | Epoch 040 | Loss 0.2080 | Train 99.97% | Val 74.00% | Best 77.20%
+ModelB-1-lowlr | Epoch 041 | Loss 0.2060 | Train 100.00% | Val 74.00% | Best 77.20%
+ModelB-1-lowlr | Epoch 042 | Loss 0.2040 | Train 99.97% | Val 70.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 043 | Loss 0.2136 | Train 99.72% | Val 73.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 044 | Loss 0.2169 | Train 99.66% | Val 69.60% | Best 77.20%
+ModelB-1-lowlr | Epoch 045 | Loss 0.2177 | Train 99.75% | Val 67.60% | Best 77.20%
+ModelB-1-lowlr | Epoch 046 | Loss 0.2216 | Train 99.69% | Val 69.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 047 | Loss 0.2102 | Train 99.81% | Val 64.80% | Best 77.20%
+ModelB-1-lowlr | Epoch 048 | Loss 0.2044 | Train 99.91% | Val 72.00% | Best 77.20%
+ModelB-1-lowlr | Epoch 049 | Loss 0.2153 | Train 99.59% | Val 57.20% | Best 77.20%
+ModelB-1-lowlr | Epoch 050 | Loss 0.2155 | Train 99.75% | Val 62.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 051 | Loss 0.2145 | Train 99.62% | Val 64.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 052 | Loss 0.1997 | Train 99.97% | Val 76.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 053 | Loss 0.1981 | Train 99.97% | Val 70.40% | Best 77.20%
+ModelB-1-lowlr | Epoch 054 | Loss 0.1965 | Train 100.00% | Val 77.60% | Best 77.20%
+Saved new best ModelB-1-lowlr: 77.60%
+ModelB-1-lowlr | Epoch 055 | Loss 0.1952 | Train 100.00% | Val 77.20% | Best 77.60%
+ModelB-1-lowlr | Epoch 056 | Loss 0.1937 | Train 100.00% | Val 75.60% | Best 77.60%
+ModelB-1-lowlr | Epoch 057 | Loss 0.1934 | Train 100.00% | Val 78.80% | Best 77.60%
+Saved new best ModelB-1-lowlr: 78.80%
+ModelB-1-lowlr | Epoch 058 | Loss 0.1936 | Train 100.00% | Val 77.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 059 | Loss 0.1985 | Train 99.97% | Val 69.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 060 | Loss 0.2153 | Train 99.44% | Val 62.00% | Best 78.80%
+ModelB-1-lowlr | Epoch 061 | Loss 0.2237 | Train 99.06% | Val 67.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 062 | Loss 0.2228 | Train 99.22% | Val 68.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 063 | Loss 0.2127 | Train 99.56% | Val 66.00% | Best 78.80%
+ModelB-1-lowlr | Epoch 064 | Loss 0.2097 | Train 99.62% | Val 75.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 065 | Loss 0.1955 | Train 100.00% | Val 73.60% | Best 78.80%
+ModelB-1-lowlr | Epoch 066 | Loss 0.1939 | Train 100.00% | Val 78.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 067 | Loss 0.1939 | Train 99.94% | Val 62.40% | Best 78.80%
+ModelB-1-lowlr | Epoch 068 | Loss 0.1948 | Train 99.97% | Val 76.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 069 | Loss 0.1921 | Train 100.00% | Val 76.40% | Best 78.80%
+ModelB-1-lowlr | Epoch 070 | Loss 0.1921 | Train 100.00% | Val 76.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 071 | Loss 0.1917 | Train 100.00% | Val 78.40% | Best 78.80%
+ModelB-1-lowlr | Epoch 072 | Loss 0.1911 | Train 100.00% | Val 77.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 073 | Loss 0.1922 | Train 100.00% | Val 78.00% | Best 78.80%
+ModelB-1-lowlr | Epoch 074 | Loss 0.1922 | Train 99.97% | Val 74.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 075 | Loss 0.1943 | Train 99.94% | Val 76.00% | Best 78.80%
+ModelB-1-lowlr | Epoch 076 | Loss 0.2056 | Train 99.59% | Val 57.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 077 | Loss 0.2077 | Train 99.81% | Val 66.00% | Best 78.80%
+ModelB-1-lowlr | Epoch 078 | Loss 0.1946 | Train 100.00% | Val 77.60% | Best 78.80%
+ModelB-1-lowlr | Epoch 079 | Loss 0.1915 | Train 100.00% | Val 76.80% | Best 78.80%
+ModelB-1-lowlr | Epoch 080 | Loss 0.1914 | Train 100.00% | Val 77.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 081 | Loss 0.1908 | Train 100.00% | Val 77.20% | Best 78.80%
+ModelB-1-lowlr | Epoch 082 | Loss 0.1907 | Train 100.00% | Val 79.20% | Best 78.80%
+Saved new best ModelB-1-lowlr: 79.20%
+ModelB-1-lowlr | Epoch 083 | Loss 0.1909 | Train 100.00% | Val 79.20% | Best 79.20%
+ModelB-1-lowlr | Epoch 084 | Loss 0.1905 | Train 100.00% | Val 77.60% | Best 79.20%
+ModelB-1-lowlr | Epoch 085 | Loss 0.1904 | Train 100.00% | Val 78.00% | Best 79.20%
+ModelB-1-lowlr | Epoch 086 | Loss 0.1903 | Train 100.00% | Val 79.60% | Best 79.20%
+Saved new best ModelB-1-lowlr: 79.60%
+ModelB-1-lowlr | Epoch 087 | Loss 0.1906 | Train 100.00% | Val 78.00% | Best 79.60%
+ModelB-1-lowlr | Epoch 088 | Loss 0.1908 | Train 100.00% | Val 74.40% | Best 79.60%
+ModelB-1-lowlr | Epoch 089 | Loss 0.2027 | Train 99.69% | Val 69.20% | Best 79.60%
+ModelB-1-lowlr | Epoch 090 | Loss 0.2019 | Train 99.75% | Val 78.40% | Best 79.60%
+ModelB-1-lowlr | Epoch 091 | Loss 0.1970 | Train 99.81% | Val 66.80% | Best 79.60%
+ModelB-1-lowlr | Epoch 092 | Loss 0.1959 | Train 99.91% | Val 78.00% | Best 79.60%
+ModelB-1-lowlr | Epoch 093 | Loss 0.1918 | Train 100.00% | Val 79.20% | Best 79.60%
+ModelB-1-lowlr | Epoch 094 | Loss 0.1906 | Train 100.00% | Val 82.40% | Best 79.60%
+Saved new best ModelB-1-lowlr: 82.40%
+ModelB-1-lowlr | Epoch 095 | Loss 0.1906 | Train 100.00% | Val 81.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 096 | Loss 0.1904 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 097 | Loss 0.1903 | Train 100.00% | Val 78.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 098 | Loss 0.1901 | Train 100.00% | Val 78.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 099 | Loss 0.1900 | Train 100.00% | Val 75.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 100 | Loss 0.1902 | Train 100.00% | Val 81.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 101 | Loss 0.1902 | Train 100.00% | Val 80.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 102 | Loss 0.1898 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 103 | Loss 0.1896 | Train 100.00% | Val 80.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 104 | Loss 0.1897 | Train 100.00% | Val 80.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 105 | Loss 0.1896 | Train 100.00% | Val 81.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 106 | Loss 0.1896 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 107 | Loss 0.1894 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 108 | Loss 0.1894 | Train 100.00% | Val 79.20% | Best 82.40%
+ModelB-1-lowlr | Epoch 109 | Loss 0.1894 | Train 100.00% | Val 81.20% | Best 82.40%
+ModelB-1-lowlr | Epoch 110 | Loss 0.1892 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 111 | Loss 0.1892 | Train 100.00% | Val 80.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 112 | Loss 0.1892 | Train 100.00% | Val 81.20% | Best 82.40%
+ModelB-1-lowlr | Epoch 113 | Loss 0.1893 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 114 | Loss 0.1894 | Train 100.00% | Val 78.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 115 | Loss 0.1892 | Train 100.00% | Val 82.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 116 | Loss 0.1901 | Train 100.00% | Val 76.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 117 | Loss 0.1895 | Train 100.00% | Val 78.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 118 | Loss 0.1891 | Train 100.00% | Val 78.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 119 | Loss 0.1898 | Train 100.00% | Val 78.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 120 | Loss 0.1898 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 121 | Loss 0.1892 | Train 100.00% | Val 80.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 122 | Loss 0.1891 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 123 | Loss 0.1890 | Train 100.00% | Val 80.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 124 | Loss 0.1892 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 125 | Loss 0.1892 | Train 100.00% | Val 78.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 126 | Loss 0.1890 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 127 | Loss 0.1890 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 128 | Loss 0.1888 | Train 100.00% | Val 80.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 129 | Loss 0.1889 | Train 100.00% | Val 80.80% | Best 82.40%
+ModelB-1-lowlr | Epoch 130 | Loss 0.1889 | Train 100.00% | Val 78.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 131 | Loss 0.1888 | Train 100.00% | Val 81.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 132 | Loss 0.1890 | Train 100.00% | Val 76.00% | Best 82.40%
+ModelB-1-lowlr | Epoch 133 | Loss 0.1894 | Train 100.00% | Val 78.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 134 | Loss 0.1889 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 135 | Loss 0.1890 | Train 100.00% | Val 82.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 136 | Loss 0.1889 | Train 100.00% | Val 81.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 137 | Loss 0.1890 | Train 100.00% | Val 79.60% | Best 82.40%
+ModelB-1-lowlr | Epoch 138 | Loss 0.1890 | Train 100.00% | Val 78.40% | Best 82.40%
+ModelB-1-lowlr | Epoch 139 | Loss 0.1889 | Train 100.00% | Val 78.40% | Best 82.40%
+Early stopping: validation accuracy stopped improving.
+
+Best ModelB-1-lowlr Val Accuracy = 82.40% at epoch 94
+
+Final ModelB-1-lowlr Validation Accuracy: 82.40%
+
+Confusion matrix rows=true cols=pred
+Labels: [34, 137, 159, 173, 201]
+[[42, 5, 0, 0, 3], [5, 38, 3, 3, 1], [2, 4, 43, 1, 0], [0, 1, 2, 47, 0], [3, 3, 1, 7, 36]]
+Class 34: 42/50 = 84.00%
+Class 137: 38/50 = 76.00%
+Class 159: 43/50 = 86.00%
+Class 173: 47/50 = 94.00%
+Class 201: 36/50 = 72.00%
+
+Saved ModelB-1-lowlr best model to checkpoints_taskB\modelB_1_expert_best_lowlr.pth
+
+Process finished with exit code 0
